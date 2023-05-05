@@ -8,5 +8,5 @@ Relay and gateway
 bash <()
 
 ## Windows
-Todo:
+To Do.
 Windows Store
