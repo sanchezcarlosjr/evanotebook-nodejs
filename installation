@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+git clone https://github.com/sanchezcarlosjr/evanotebook-nodejs.git
