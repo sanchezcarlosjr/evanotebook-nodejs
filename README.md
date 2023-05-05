@@ -10,3 +10,5 @@ bash <()
 ## Windows
 To Do.
 Windows Store
+
+# Public gateways
