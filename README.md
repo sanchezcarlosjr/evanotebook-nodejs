@@ -5,7 +5,7 @@ Relay, gateway and tools to control environment
 
 # Installation
 ## Linux and MacOS
-```
+```bash
 bash <(curl -s https://raw.githubusercontent.com/sanchezcarlosjr/evanotebook-nodejs/main/installer)
 ```
 
