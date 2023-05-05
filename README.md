@@ -1,5 +1,5 @@
 # Evanotebook Nodejs
-Relay and gateway
+Relay, gateway and tools to control environment
 
 # Requirements
 
