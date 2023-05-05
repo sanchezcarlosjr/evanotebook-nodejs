@@ -5,7 +5,9 @@ Relay and gateway
 
 # Installation
 ## Linux and MacOS
-bash <()
+```
+bash <(curl -s https://raw.githubusercontent.com/sanchezcarlosjr/evanotebook-nodejs/main/installer)
+```
 
 ## Windows
 To Do.
