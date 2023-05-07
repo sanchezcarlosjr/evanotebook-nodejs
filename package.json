@@ -1,0 +1,27 @@
+{
+  "name": "evanotebook-nodejs",
+  "version": "1.0.0",
+  "description": "Relay, gateway and tools to control environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchezcarlosjr/evanotebook-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchezcarlosjr/evanotebook-nodejs/issues"
+  },
+  "homepage": "https://github.com/sanchezcarlosjr/evanotebook-nodejs#readme",
+  "dependencies": {
+    "@chainsafe/libp2p-noise": "^11.0.4",
+    "@libp2p/kad-dht": "^9.2.0",
+    "@libp2p/mplex": "^8.0.1",
+    "@libp2p/websockets": "^6.0.1",
+    "libp2p": "^0.44.0"
+  }
+}
